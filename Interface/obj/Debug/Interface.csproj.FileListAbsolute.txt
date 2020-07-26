@@ -7,3 +7,10 @@ c:\users\hubm-nagnath.mali\documents\visual studio 2013\Projects\Interface\Inter
 E:\Naganath\Practice\Interface\Interface\bin\Debug\Interface.exe.config
 E:\Naganath\Practice\Interface\Interface\obj\Debug\Interface.exe
 E:\Naganath\Practice\Interface\Interface\obj\Debug\Interface.pdb
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\bin\Debug\Interface.exe.config
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\bin\Debug\Interface.exe
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\bin\Debug\Interface.pdb
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\obj\Debug\Interface.exe
+G:\NAGANATH\GITTUTORIAL\Interface\Interface\obj\Debug\Interface.pdb
