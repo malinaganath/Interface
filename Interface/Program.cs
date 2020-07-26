@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace Interface
 {
    
-    interface IOfferNew
+    interface IOfferOld
     {
         string GetMyOffer();
     }
-    interface IAccount : IOfferNew
+    interface IAccount : IOfferOld
     {
         int MyProperty { get; set; }
 
